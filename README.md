@@ -1,4 +1,4 @@
-# <span style="color:rgb(10, 115, 220);">NO CSS Website</span> :computer:
+# <span style="color:rgb(10, 115, 220);">NO CSS Website (Simple)</span> :computer:
 I'm aware.
 The code is scuffy and I just imported some random <small>CSS</small> file from the internet and it made the buttons pretty and centered the page. It's pretty much all I did.
 
